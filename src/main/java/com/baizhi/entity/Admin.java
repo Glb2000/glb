@@ -19,4 +19,5 @@ public class Admin {
     private String nickname;
     private Integer age;
     private String sex;
+    ptivate String test;
 }
