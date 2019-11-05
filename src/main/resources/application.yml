@@ -1,0 +1,8 @@
+spring:
+    datasource:
+        type: org.apache.commons.dbcp.BasicDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/cmfz?characterEncoding=UTF-8
+        username: root
+        password: root
+
