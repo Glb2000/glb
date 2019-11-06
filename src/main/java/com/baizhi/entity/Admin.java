@@ -22,6 +22,7 @@ public class Admin {
     private String test;
 
     public static void main(String[] args) {
+        System.out.println("---------------------");
         int[] a = {1, 4, 7, 5, 2, 3};
         int count = 0;
         for (int i = 0; i < a.length; i++) {
